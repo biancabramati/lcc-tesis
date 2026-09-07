@@ -1,0 +1,11 @@
+nombre_imagen,id_roi,xmin,xmax,ymin,ymax,low_certainty
+cell5.czi,1,52,130,224,308,false
+cell5.czi,2,438,500,351,418,true
+cell5.czi,3,444,479,170,207,false
+SEcell7.czi,4,330,390,55,155,false
+SEcell7.czi,5,44,112,364,423,false
+SEcell7.czi,6,365,404,274,316,false
+SEcell7.czi,7,144,197,361,409,false
+SEcell7.czi,8,88,164,286,342,false
+SEcell7.czi,9,147,216,281,351,true
+SEcell7.czi,10,123,184,139,201,false
